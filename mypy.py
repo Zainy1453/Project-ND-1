@@ -8,5 +8,4 @@ def display_side_by_side(*args,titles=cycle([''])):
         html_str+=df.to_html().replace('table','table style="display:inline"')
         html_str+='</td></th>'
     display_html(html_str,raw=True)
-
-print("Mypy working!")
+print("Mypy!")
