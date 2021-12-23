@@ -1,4 +1,3 @@
-
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -15,9 +14,10 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I used Boston and Seattle's data to answer the following questions:
 
-1. What aspects of a listing predict the price in both cities? In other words, if someone resides in either city, what can they do to increase the chances of renting out with airbnb at a higher price?
-2. How do prices vary through the year in both cities ? when is the season and off season in both cities ?
-3. How can the reviews be described in each city ?
+1: How can you compare the reviews in both cities ?
+2: What aspects of a listing influences the price in both cities?
+3: How can we predict the price?
+4: How do prices vary through the year in both cities ? when is the season and off season in both cities?
 
 The full set of files related to this project are available [here](https://github.com/Zainy1453/Project-ND-1.git) 
 
@@ -29,7 +29,7 @@ There is an additional `.py` file that has useful functions defined which were u
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@zainy1453/title-a4fd38d496da).
+The main findings of the code can be found at the post available [here](https://medium.com/@zainy1453/boston-vs-seattle-an-airbnb-showdown-dd17d1698460).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
